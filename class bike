@@ -1,0 +1,7 @@
+class bike:
+    name="ns"
+    gear=2
+bike1 = bike()
+bike1.gear = 11
+bike1.name = "ns"
+print(f"name:{bike1.name}, gears:{bike1.gear} ")
